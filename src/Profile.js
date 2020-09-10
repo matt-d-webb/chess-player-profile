@@ -22,7 +22,7 @@ function Home() {
           <Grid.Col offsetLg={3} offsetSm={1} md={10} lg={4}>
             <Card>
               <Card.Header>
-                <Card.Title>FIDE Profie</Card.Title>
+                <Card.Title>FIDE Profile</Card.Title>
               </Card.Header>
               <Card.Body>
 
